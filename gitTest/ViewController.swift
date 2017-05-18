@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("Slumberjack Remix")
         
         print("Ver. 1.1 update!")
+        print("Ver. 1.2 update!")
         
     }
 
