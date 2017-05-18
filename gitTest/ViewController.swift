@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         print("Drop the bass")
         print("Slumberjack Remix")
         
+        print("Ver. 1.1 update!")
+        
     }
 
     override func didReceiveMemoryWarning() {
