@@ -19,6 +19,9 @@ class ViewController: UIViewController {
         
         print("Labyrinth. Come in.")
         
+        print("Ver. 1.1 update!")
+        print("Ver. 1.2 update!")
+        
     }
 
     override func didReceiveMemoryWarning() {
