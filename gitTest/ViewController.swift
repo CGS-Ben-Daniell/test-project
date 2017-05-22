@@ -22,6 +22,8 @@ class ViewController: UIViewController {
         print("Ver. 1.1 update!")
         print("Ver. 1.2 update!")
         
+        print("Chuck us a cheeky nandos")
+        
     }
 
     override func didReceiveMemoryWarning() {
