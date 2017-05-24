@@ -23,6 +23,7 @@ class ViewController: UIViewController {
         print("Ver. 1.2 update!")
         
         print("Chuck us a cheeky nandos")
+        print("You must be so embarassed")
         
         print("Cheeky bugfix")
         
